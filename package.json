@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauron85/react-native-background-geolocation.git"
+    "url": "git+https://github.com/felipecarreramo/react-native-background-geolocation.git"
   },
   "keywords": [
     "gps",
